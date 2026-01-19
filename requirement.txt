@@ -1,0 +1,5 @@
+google.generativeai
+langchain-google-generativeai
+streamlit
+python.dotenv 
+pyPDf2
